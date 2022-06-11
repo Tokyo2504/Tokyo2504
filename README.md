@@ -1,4 +1,3 @@
-<img align="center" src="https://www.pazahr.ir/wp-content/uploads/2016/01/slider3.jpg" width="100%" height="250"/>
 <h1 align="center">Welcome to my page! Nice to see you! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <img align="right" src="https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif" width="380"/>
