@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tokyo2504" target="_blank">Ksenia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Beginner Frontend developer from Russia 🇷🇺</h3>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 <!-- Here are some ideas to get you started:
