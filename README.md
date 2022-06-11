@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" width="400"/>
-  <h1 align="center"><img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif"/><a href="https://github.com/Tokyo2504" target="_blank" style="padding-bottom: 50px;">Ksenia</a> 
+  <h1 align="center"><img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif"/><a href="https://github.com/Tokyo2504" target="_blank" style="padding-bottom: 50px; font-size: 40px;">Ksenia</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Beginner Frontend developer from Russia 🇷🇺</h3>
   <a href="https://t.me/tokyo2504">
