@@ -3,7 +3,9 @@
   <h1 align="center">Hi there, I'm <a href="https://github.com/Tokyo2504" target="_blank">Ksenia</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Beginner Frontend developer from Russia 🇷🇺</h3>
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  <a href="https://t.me/tokyo2504">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>  
 </div>
 
 <!--   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
