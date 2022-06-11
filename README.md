@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif" width="380"/>
 
-:ghost: My name is <a href="https://github.com/Tokyo2504" target="_blank">Ksenia</a>. I am a beginner Frontend developer from <img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/ru.svg" height="15"/> Russia.
+:ghost: My name is <a href="https://github.com/Tokyo2504" target="_blank">Ksenia</a>. I'm a beginner Frontend developer from <img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/ru.svg" height="15"/> Russia.
 <br/>
 <br/>
 :hammer_and_wrench: I'm currently learning:
