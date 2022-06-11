@@ -1,4 +1,4 @@
-
+<img src="https://i.gifer.com/6E2.gif" height="100"/>
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tokyo2504" target="_blank">Ksenia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Beginner Frontend developer from Russia 🇷🇺</h3>
